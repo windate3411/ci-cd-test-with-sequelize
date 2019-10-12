@@ -1,7 +1,7 @@
 {
   "name": "CI-CD-TEST_with_sequelize",
   "version": "1.0.0",
-  "description": "unit test with sequlize",
+  "description": "unit test with sequlize and ci/cd practice",
   "main": "app.js",
   "scripts": {
     "test": "mocha  --exit --recursive --timeout 5000"
