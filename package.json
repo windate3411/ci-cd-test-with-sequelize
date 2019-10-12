@@ -1,0 +1,24 @@
+{
+  "name": "CI-CD-TEST_with_sequelize",
+  "version": "1.0.0",
+  "description": "unit test with sequlize",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha  --exit --recursive --timeout 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cross-env": "^6.0.3",
+    "faker": "^4.1.0",
+    "mocha": "^6.2.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.19.6",
+    "sequelize-cli": "^5.5.1",
+    "sequelize-test-helpers": "^1.1.2",
+    "sinon": "^7.5.0",
+    "sinon-chai": "^3.3.0"
+  }
+}
