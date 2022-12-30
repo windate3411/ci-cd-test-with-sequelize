@@ -13,7 +13,7 @@
     "chai": "^4.2.0",
     "cross-env": "^6.0.3",
     "faker": "^4.1.0",
-    "mocha": "^6.2.1",
+    "mocha": "^10.2.0",
     "mysql2": "^1.7.0",
     "sequelize": "^5.19.6",
     "sequelize-cli": "^5.5.1",
